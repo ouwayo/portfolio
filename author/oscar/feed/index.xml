@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>oscar &#8211; Portfolio</title>
+	<atom:link href="https://ouwayo.github.io/portfolio/author/oscar/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ouwayo.github.io/portfolio</link>
+	<description>Oscar Uwayo</description>
+	<lastBuildDate>Sun, 05 Jan 2020 14:21:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://ouwayo.github.io/portfolio/wp-content/uploads/2019/12/cropped-IMG_9094-scaled-1-32x32.jpg</url>
+	<title>oscar &#8211; Portfolio</title>
+	<link>https://ouwayo.github.io/portfolio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Welcome</title>
+		<link>https://ouwayo.github.io/portfolio/2020/01/05/elementor-58/</link>
+				<comments>https://ouwayo.github.io/portfolio/2020/01/05/elementor-58/#respond</comments>
+				<pubDate>Sun, 05 Jan 2020 08:49:54 +0000</pubDate>
+		<dc:creator><![CDATA[oscar]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://ouwayo.github.io/portfolio/?p=58</guid>
+				<description><![CDATA[A warm welcome to my cite.     ]]></description>
+								<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="58" class="elementor elementor-58" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-35b8626 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="35b8626" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e540300 elementor-column elementor-col-50 elementor-top-column" data-id="e540300" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-361934f elementor-widget elementor-widget-image" data-id="361934f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="960" src="https://ouwayo.github.io/portfolio/wp-content/uploads/2019/12/IMG_9094-683x1024.jpg" class="attachment-large size-large" alt="" srcset="https://ouwayo.github.io/portfolio/wp-content/uploads/2019/12/IMG_9094-683x1024.jpg 683w, https://ouwayo.github.io/portfolio/wp-content/uploads/2019/12/IMG_9094-200x300.jpg 200w, https://ouwayo.github.io/portfolio/wp-content/uploads/2019/12/IMG_9094-768x1152.jpg 768w, https://ouwayo.github.io/portfolio/wp-content/uploads/2019/12/IMG_9094-1024x1536.jpg 1024w, https://ouwayo.github.io/portfolio/wp-content/uploads/2019/12/IMG_9094-1365x2048.jpg 1365w, https://ouwayo.github.io/portfolio/wp-content/uploads/2019/12/IMG_9094-scaled.jpg 1707w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-ab2e92f elementor-column elementor-col-50 elementor-top-column" data-id="ab2e92f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bdccaed elementor-widget elementor-widget-text-editor" data-id="bdccaed" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>A warm welcome to my cite. </p><p> </p><p> </p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+							<wfw:commentRss>https://ouwayo.github.io/portfolio/2020/01/05/elementor-58/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
